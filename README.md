@@ -70,5 +70,5 @@ A console-based electronic voting system built in C as a Programming Fundamental
 
 ## 👩‍💻 Developed By
 
-Rameen Ramzan — BS Computer Science
+Rameen Ramzan & Umama Zubair — BS Computer Science
 Programming Fundamentals — Semester Project
